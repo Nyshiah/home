@@ -1,0 +1,71 @@
+body {
+    background-color:#69563c ;
+}
+
+h1 {
+    color:#ffebd0
+}
+#heading1 {
+    color: #ffecdf ;
+}
+
+h5 { color:#f2cf97;
+
+}
+
+p {
+    color: #F7E7CE ;
+}
+
+/* unvisited link */
+ #w3school1:link  {
+    color: #ffffff ;
+}
+
+/* visited link */
+ #w3school1:visited {
+    color: aqua ;
+}
+
+/* mouse over link */
+ #w3school1:hover {
+    color:brown ;
+}
+
+/* selected link */
+#w3school1:active {
+    color:darkblue ;
+}
+
+img {
+    height: 140px;
+    width: 190px;
+}
+
+.firstbox {
+    margin: 15px;
+    border: 15px #ceb29e;
+    padding: 50px;
+    width: 20%;
+    background-color: #3b301f;
+}
+
+.secondbox {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.secondbox h3 {
+    color: #F7E7CE;
+    font-family: Arial,  ;
+}
+
+.Peom {
+    width: 150px;
+    height: 75px;
+    padding: 20px;
+    border: 2px solid;
+}
+
+.JavaScriptButton {
+    position: relative;
+}
